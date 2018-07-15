@@ -1,2 +1,4 @@
-﻿  main.cpp
+﻿  LogStream.cpp
+  LogSystem.cpp
+  正在生成代码...
   LogSystem.vcxproj -> E:\Github\LogSystem\Debug\LogSystem.exe

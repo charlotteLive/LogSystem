@@ -1,0 +1,1 @@
+2018-07-15 16:52:05.648 [DEBUG] main.cpp: hello logger to file90 True
